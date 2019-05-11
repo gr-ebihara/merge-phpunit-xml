@@ -1,0 +1,10 @@
+{
+  "alias": "merge-phpunit-xml.phar",
+  "files": [
+    "merge-phpunit-xml.php",
+    "vendor/autoload.php"
+  ],
+  "main": "merge-phpunit-xml.php",
+  "output": "merge-phpunit-xml.phar",
+  "compression": "GZ"
+}

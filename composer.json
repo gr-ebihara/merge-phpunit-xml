@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sebastian/finder-facade": "^1.2",
+        "theseer/fdomdocument": "^1.6"
+    }
+}
